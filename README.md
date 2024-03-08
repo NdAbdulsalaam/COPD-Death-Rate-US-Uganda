@@ -18,12 +18,12 @@ In this data analysis journey, I collected data both from the United Nations' [w
 5. Make note of any assumptions, or comments
 
 ## **Findings**
-| No. | Indicator            | Location | Rate      |
-|-----|----------------------|----------|-----------|
-| 1.  | Crude Death Rate     | USA      | 2164.74   |
-| 2.  | Crude Death Rate     | Uganda   | 2058.62   |
-| 3.  | ASDR                  | USA      | 5159699.30|
-| 4.  | ASDR                  | Uganda   | 574075.35 |
+| No. | Indicator                     | Location | Rate      |
+|-----|-------------------------------|----------|-----------|
+| 1.  | Crude Death Rate              | USA      | 2164.74   |
+| 2.  | Crude Death Rate              | Uganda   | 2058.62   |
+| 3.  | Age-Standardized Death Rate   | USA      | 5159699.30|
+| 4.  | Age-Standardized Death Rate   | Uganda   | 574075.35 |
 
 
 ## **Skills and Tools**
