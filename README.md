@@ -44,4 +44,4 @@ Analysis of the reasons are beyond the scope of this project, and the time howev
 - I would have liked to visualize some of the results, for example the death rates per age group compared to the population. 
 
 ## **Credits**
-This task is part of a Data Analysis Exercise posted by Our World in Data. All resources are public and cited below. 
+This task is part of a Data Analysis Exercise posted by Our World in Data. All resources are public and cited above. 
